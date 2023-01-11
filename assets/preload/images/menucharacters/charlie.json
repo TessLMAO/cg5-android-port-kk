@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Dad idle",
+	"image": "charlie",
+	"position": [
+		70,
+		200
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "Dad idle"
+}
