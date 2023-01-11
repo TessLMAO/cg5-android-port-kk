@@ -44,6 +44,17 @@
 			]
 		]
 	],
+	[
+	      "tutorial-remix",
+	      "cg"
+	      [ 
+	          255, 
+	          80, 
+	          100 
+	      ] 
+	   ]
+	   ],
+	[
 	"hideStoryMode": false,
 	"weekName": "VS. CG5",
 	"hiddenUntilUnlocked": false
