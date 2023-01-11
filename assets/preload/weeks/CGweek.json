@@ -1,0 +1,50 @@
+{
+	"storyName": "CG5",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"charlie",
+		"bf",
+		"oreo"
+	],
+	"songs": [
+		[
+			"gimme-a-break",
+			"cg",
+			[
+				255,
+				80,
+				100
+			]
+		],
+		[
+			"man-on-stilts",
+			"cg",
+			[
+				255,
+				80,
+				100
+			]
+		],
+		[
+			"knock-knock",
+			"cg",
+			[
+				255,
+				80,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "VS. CG5",
+	"hiddenUntilUnlocked": false
+}
